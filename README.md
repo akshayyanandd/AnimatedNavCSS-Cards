@@ -1,1 +1,1 @@
-Here are different CSS projects in this folder
+THIS PROJECT USES HTML AND CSS TO CREATE AN ANIMATED NAVBAR AND CSS CARDS
